@@ -1,5 +1,5 @@
 🌱 Hoje eu estudo front-end <br>
-⚡ "O importante é funcionar"
+⚡ farmando XP em javascript <br>
 
 <div align="center">
   <img align="left"height="150em" width="49%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Cauã Yves"/>

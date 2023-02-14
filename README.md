@@ -10,7 +10,9 @@
     <img height="auto" width="33.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=CauaYves&theme=dark" alt="Cauã Yves" />
   </div>
 </details>  
-<div display="block">
+
+  <h3>🛠️Tecnologias e ferramentas</h3>
+  <div display="block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px";/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px";/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px";/>

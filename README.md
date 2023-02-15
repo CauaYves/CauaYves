@@ -1,4 +1,4 @@
-<h1 align="center">Cauã Yves</h1>
+<h1 align="center"><noscript><Cauã Yves/></noscript></h1>
 
 #### Me chamo Cauã Yves, mas pode me chamar de Yves <br /> tenho 18 anos e atualmente estudo engenharia <br /> de software e desenvolvimento voltado para a web <br /> na <a href="https://www.driven.com.br">Driven Education<a>.
 
@@ -11,7 +11,7 @@
   </div>
 </details>  
 
-  <h3>🛠️Tecnologias e ferramentas</h3>
+### 🛠️Tecnologias e ferramentas
   <div display="block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px";/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px";/>

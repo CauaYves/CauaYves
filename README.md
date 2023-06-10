@@ -4,7 +4,7 @@
 
  :zap: Github Stats
   <div align="center">
-    <img height="auto" width="32%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Cauã Yves"/>
+    <img height="auto" width="42%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Cauã Yves"/>
     <img height="auto" width="28.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=compact&langs_count=7&theme=github_dark" alt="Cauã Yves"/>
     <img height="auto" width="33.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=CauaYves&theme=dark" alt="Cauã Yves" />
   </div>

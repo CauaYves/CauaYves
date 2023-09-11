@@ -8,27 +8,10 @@
     <img height="auto" width="28.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=compact&langs_count=7&theme=github_dark" alt="Cauã Yves"/>
     <img height="auto" width="33.5%"src="https://github-readme-streak-stats.herokuapp.com/?user=CauaYves&theme=dark" alt="Cauã Yves" />
   </div>
-
-### 🛠️Tecnologias e ferramentas
-<div display="block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="height: 40px";/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="height: 40px"; />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px";/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="height: 40px";/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 40px";/>
-</div>     
-
-### 📚Estou estudando  
-  
-  <div display="block">
-   <img src="https://github.com/CauaYves/CauaYves/assets/108950428/083f4d46-f590-4663-b7fe-066ea2fbe398" style="height: 40px";/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="height: 40px";/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="height: 40px";/>
-  </div>
-
+               
+| Tecnologias       |                                                                                                                    |                                                                                                                  |                                                                                                                  |                                                                                                                   |
+|-------------------|:------------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------------------------------:|------------------------------------------------------------------------------------------------------------------:|
+| Front End         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" />              | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" />          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" />          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" /> |
+| Back End          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40px" />             | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40px" />      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40px" />               | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px"  />        |
+| Bancos de Dados   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40px"/>         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40px" />          |                                                                                                                   |
+| Outras ferramentas| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" />  | <img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="50"> |  | |

@@ -1,4 +1,7 @@
 <h1 align="center"><noscript><Cauã Yves/></noscript></h1>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cauã+Yves;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 
 #### Me chamo Cauã Yves, mas pode me chamar de Yves <br /> tenho 18 anos e atualmente estudo engenharia <br /> de software e desenvolvimento voltado para a web <br /> na <a href="https://www.driven.com.br">Driven Education<a>.
 

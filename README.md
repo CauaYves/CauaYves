@@ -4,7 +4,7 @@
    <div>
        <h4>Me chamo Cauã Yves, mas pode me chamar de Yves.</h4>
        <p>tenho 19 anos e atualmente estudo engenharia de software e desenvolvimento voltado para a web na <a href="https://www.driven.com.br">Driven Education<a>.</p>
-       <p>Comecei a programar aos 15 anos, assistindo e fazendo os projetos do <a href="https://www.cursoemvideo.com/">Curso em video</a> e descobri meu gosto por tecnologia, liderei três equipes de 5 e 4 desenvolvedores com a responsabilidade de entregar um software os quais podem ser encontrados nos repositórios pinados, trabalhei com construção de softwares desde o zero até o produto final durante os 10 meses que estudei na Driven.</p>
+       <p>Comecei a programar aos 15 anos, assistindo e fazendo os projetos do <a href="https://www.cursoemvideo.com/">Curso em video</a> e descobri meu gosto por tecnologia, liderei três equipes de 5 e 4 desenvolvedores com a responsabilidade de entregar um software os quais podem ser encontrados nos repositórios pinados e trabalhei com construção de softwares desde o zero até o produto final durante os 10 meses que estudei na Driven.</p>
    </div>
   <div align="left">
     <img height="auto" width="46%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Cauã Yves"/>

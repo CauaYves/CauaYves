@@ -10,8 +10,9 @@
 
 <div align="center">
    <div style="display: flex; align-items: center;">
-      <img height="auto" width="46%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Cauã Yves"/>
-      <img height="auto" width="48.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=CauaYves&theme=algolia" alt="Cauã Yves" />
+      <img height="auto" width="46%" src="https://github-readme-stats.vercel.app/api?username=CauaYves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Cauã Yves"/>  
+      
+   <img height="auto" width="48.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=CauaYves&theme=algolia" alt="Cauã Yves" />
    </div>
 </div>
 

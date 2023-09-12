@@ -48,7 +48,7 @@
           <tr>
             <td>Outras ferramentas</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" /> Typescript</td>
-            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="50"></td>
+            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="50"> Prisma</td>
           </tr>
         </table>
       </div>

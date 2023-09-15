@@ -16,13 +16,18 @@
    </div>
 </div>
 
+--------------------------------
+
+
 <div align="center">
-   <div style="display: flex; align-items: center;">
-      <div style="width: 10px">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=pie&theme=algolia" />
-      </div>
-      <div>
-        <table>
+<table>
+    <tr>
+        <td>
+            <!--grafico aqui-->
+                <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=pie&theme=algolia" />
+        </td>
+        <td><!-- tabela de tecnologias -->
+             <table>
           <tr>
             <th>Tecnologias</th>
           </tr>
@@ -52,6 +57,8 @@
             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="50"> Prisma</td>
           </tr>
         </table>
-      </div>
-   </div>
+        </td>
+    </tr>
+</table>
+   
 </div>

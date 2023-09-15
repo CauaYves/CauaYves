@@ -16,17 +16,13 @@
    </div>
 </div>
 
---------------------------------
-
-
 <div align="center">
 <table>
     <tr>
         <td>
-            <!--grafico aqui-->
-                <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=pie&theme=algolia" />
+            <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaYves&layout=pie&theme=algolia" />
         </td>
-        <td><!-- tabela de tecnologias -->
+        <td>
              <table>
           <tr>
             <th>Tecnologias</th>

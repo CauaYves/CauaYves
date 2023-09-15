@@ -42,13 +42,13 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" /> NodeJs</td>
           </tr>
           <tr>
-            <td>Bancos de Dados</td>
+            <td>Bancos de<br> Dados</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30px"/> MongoDB</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30px"/> PostgreSQL</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30px" /> Redis</td>
           </tr>
           <tr>
-            <td>Outras ferramentas</td>
+            <td>Outras <br>ferramentas</td>
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" /> Typescript</td>
             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="30px"> Prisma</td>
           </tr>

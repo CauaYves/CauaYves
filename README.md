@@ -29,28 +29,28 @@
           </tr>
           <tr>
             <td>Front End</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px" /> CSS3</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" /> React</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px" /> HTML</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" /> Javascript</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px" /> CSS3</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30px" /> React</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px" /> HTML</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px" /> Javascript</td>
           </tr>
           <tr>
             <td>Back End</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40px" /> Nest</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40px" /> Express</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40px" /> Jest</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40px" /> NodeJs</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30px" /> Nest</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30px" /> Express</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30px" /> Jest</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px" /> NodeJs</td>
           </tr>
           <tr>
             <td>Bancos de Dados</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40px"/> MongoDB</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40px"/> PostgreSQL</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40px" /> Redis</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30px"/> MongoDB</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30px"/> PostgreSQL</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30px" /> Redis</td>
           </tr>
           <tr>
             <td>Outras ferramentas</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" /> Typescript</td>
-            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="50"> Prisma</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30px" /> Typescript</td>
+            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="30px"> Prisma</td>
           </tr>
         </table>
         </td>

@@ -29,34 +29,34 @@
           </tr>
           <tr>
             <td>Front End</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="20px"/> Next.Js</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20px" /> CSS3</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20px" /> React</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20px" /> HTML</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20px" /> Javascript</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="15px"/> Next.Js</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="15px" /> CSS3</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="15px" /> React</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="15px" /> HTML</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15px" /> Javascript</td>
           </tr>
           <tr>
             <td>Back End</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20px"/> Java</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20px" /> Express</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="20px"/> Nest.js</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="20px" /> Jest</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" /> NodeJs</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="15px"/> Java</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="15px" /> Express</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="15px"/> Nest.js</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="15px" /> Jest</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="15px" /> NodeJs</td>
           </tr>
           <tr>
             <td>Bancos de<br> Dados</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20px"/> MongoDB</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20px"/> PostgreSQL</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20px" /> Redis</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="15px"/> MongoDB</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="15px"/> PostgreSQL</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="15px" /> Redis</td>
           </tr>
           <tr>
             <td>Outras <br>ferramentas</td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20px" /> Typescript</td>
-            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="20px"/> Prisma</td>
+            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="15px" /> Typescript</td>
+            <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="15px"/> Prisma</td>
           </tr>
           <tr>
              <td>Estou estudando</td>
-             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/47af6f6c-e3b9-4a34-8858-99d63c6fd411" height="20px"/> C Sharp</td>
+             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/47af6f6c-e3b9-4a34-8858-99d63c6fd411" height="15px"/> C Sharp</td>
           </tr>
         </table>
         </td>

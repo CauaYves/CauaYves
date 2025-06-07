@@ -54,10 +54,7 @@
             <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="15px" /> Typescript</td>
             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/6737ce11-303c-4a09-965b-789f3695b136" height="15px"/> Prisma</td>
           </tr>
-          <tr>
-             <td>Estou estudando</td>
-             <td><img src="https://github.com/CauaYves/CauaYves/assets/108950428/47af6f6c-e3b9-4a34-8858-99d63c6fd411" height="15px"/> C Sharp</td>
-          </tr>
+         
         </table>
         </td>
     </tr>

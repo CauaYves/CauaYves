@@ -30,25 +30,11 @@
 
 <br />
 
-<div align="center">
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api?username=CauaYves&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
-    alt="Cauã Yves GitHub Stats"
-  />
-
-  <img
-    height="200"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=CauaYves&layout=compact&langs_count=8&card_width=320&theme=algolia"
-    alt="Cauã Yves Top Languages"
-  />
-</div>
-
 <br />
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="left">Tecnologias</h2>
 
-<table align="center">
+<table align="left">
   <tr>
     <th>Área</th>
     <th>Tecnologias</th>

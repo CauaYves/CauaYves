@@ -1,14 +1,5 @@
 <h1 align="center">Cauã Yves</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cau%C3%A3+Yves;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+%3A%29"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
-
 <div>
   <h4>Me chamo Cauã Yves, mas pode me chamar de Yves.</h4>
 

@@ -1,87 +1,14 @@
-<h1 align="center">Cauã Yves</h1>
+# Cauã Yves
 
-<div>
-  <h4>Me chamo Cauã Yves, mas pode me chamar de Yves.</h4>
+Desenvolvedor de software na MultiClubes. Pode me chamar de Yves.
 
-  <p>
-    Atualmente trabalho na MultiClubes como desenvolvedor de software,
-    estudei desenvolvimento de software na
-    <a href="https://www.driven.com.br" target="_blank" rel="noreferrer">
-      Driven Education
-    </a>.
-  </p>
+Estudei desenvolvimento de software na [Driven Education](https://www.driven.com.br)
+e comecei a programar aos 15 anos, fazendo os projetos do
+[Curso em Vídeo](https://www.cursoemvideo.com/).
 
-  <p>
-    Comecei a programar aos 15 anos, assistindo e fazendo os projetos do
-    <a href="https://www.cursoemvideo.com/" target="_blank" rel="noreferrer">
-      Curso em Vídeo
-    </a>.
-  </p>
-</div>
+## Tecnologias
 
-<br />
-
-<br />
-
-<h2 align="left">Tecnologias</h2>
-
-<table align="left">
-  <tr>
-    <th>Área</th>
-    <th>Tecnologias</th>
-  </tr>
-
-  <tr>
-    <td>Front End</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/nextjs/nextjs-original.svg" width="20" alt="Next.js" />
-      Next.js&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/react/react-original.svg" width="20" alt="React" />
-      React&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/css3/css3-original.svg" width="20" alt="CSS3" />
-      CSS3&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/html5/html5-original.svg" width="20" alt="HTML" />
-      HTML&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/javascript/javascript-original.svg" width="20" alt="JavaScript" />
-      JavaScript
-    </td>
-  </tr>
-
-  <tr>
-    <td>Back End</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/java/java-original.svg" width="20" alt="Java" />
-      Java&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/express/express-original.svg" width="20" alt="Express" />
-      Express&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/nestjs/nestjs-original.svg" width="20" alt="NestJS" />
-      NestJS&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/jest/jest-plain.svg" width="20" alt="Jest" />
-      Jest&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/nodejs/nodejs-original.svg" width="20" alt="Node.js" />
-      Node.js
-    </td>
-  </tr>
-
-  <tr>
-    <td>Bancos de Dados</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/mongodb/mongodb-original.svg" width="20" alt="MongoDB" />
-      MongoDB&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/postgresql/postgresql-original.svg" width="20" alt="PostgreSQL" />
-      PostgreSQL&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/redis/redis-original.svg" width="20" alt="Redis" />
-      Redis
-    </td>
-  </tr>
-
-  <tr>
-    <td>Outras ferramentas</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/typescript/typescript-original.svg" width="20" alt="TypeScript" />
-      TypeScript&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.17.0/icons/prisma/prisma-original.svg" width="20" alt="Prisma" />
-      Prisma
-    </td>
-  </tr>
-</table>
+- **Front end:** Next.js, React, TypeScript, HTML, CSS, JavaScript
+- **Back end:** Node.js, Express, NestJS, Java, Jest
+- **Bancos de dados:** PostgreSQL, MongoDB, Redis
+- **Ferramentas:** Prisma
